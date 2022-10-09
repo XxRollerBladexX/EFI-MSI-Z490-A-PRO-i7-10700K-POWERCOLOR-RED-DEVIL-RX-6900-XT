@@ -49,3 +49,52 @@ HD NVMe Samsung SSD 970 EVO
 
 ![image](https://user-images.githubusercontent.com/115396121/194748585-0f4c8e4b-4b9c-42e7-b42a-da273378afa5.png)
 
+
+
+ChipSet
+
+
+Video: Intel UHD Graphics 630
+
+Network: RTL8125 2.5GbE Controller
+
+All USB ports
+
+Kexts used:
+
+AppleALC.kext
+
+BlueToolFixup.kext
+
+BrcmFirmwareData.kext
+
+BrcmPatchRAM3.kext
+
+Lilu.kext
+
+LucyRTL8125Ethernet.kext
+
+RadeonSensor.kext
+
+SMCProcessor.kext
+
+SMCRadeonGPU.kext
+
+SMCSuperIO.kext
+
+USBInjectAll.kext
+
+VirtualSMC.kext
+
+WhateverGreen.kext
+
+
+Doc:
+
+https://dortania.github.io/OpenCore-Install-Guide/
+
+https://github.com/KernelWanderers/OCSysInfo/releases/tag/v1.0.8
+
+https://ark.intel.com/content/www/es/es/ark/products/199335/intel-core-i710700k-processor-16m-cache-up-to-5-10-ghz.html
+
+https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md
