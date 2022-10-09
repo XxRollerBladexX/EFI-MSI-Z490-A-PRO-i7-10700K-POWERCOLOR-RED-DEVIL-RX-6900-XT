@@ -14,3 +14,14 @@ MSI Z490 A PRO + i7 10700K + GRAPHIC POWERCOLOR RED DEVIL RX 6900 XT
 Latest working macOS: 12.6
 
 OpenCore: 0.8.5
+
+
+
+Complete hardware specs
+
+Intel(R) Core(TM) i9-10700 CPU @ 3,80 GHz 
+MSI Z490-A PRO @ BIOS XXX
+2x 16Gb Corsair Vengeance LPX DDR4 3000 PC4-24000 CL15
+Red Devil AMD Radeon™ RX 6900 XT 16GB GDDR6 - AXRX 6900 XT 16GBD6-3DHE/OC
+HD NVMe Samsung SSD 970 EVO
+
