@@ -41,5 +41,3 @@ HD NVMe Samsung SSD 970 EVO
 
 ![image](https://user-images.githubusercontent.com/115396121/194748585-0f4c8e4b-4b9c-42e7-b42a-da273378afa5.png)
 
-
-  │   ├── Type: Non-Volatile Memory Express (NVMe)
