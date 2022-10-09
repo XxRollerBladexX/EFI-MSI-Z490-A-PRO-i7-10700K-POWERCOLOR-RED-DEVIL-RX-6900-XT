@@ -32,3 +32,16 @@ Red Devil AMD Radeon™ RX 6900 XT 16GB GDDR6 - AXRX 6900 XT 16GBD6-3DHE/OC
 
 HD NVMe Samsung SSD 970 EVO
 
+
+
+
+SMBIOS
+
+Model: iMacPro1,1
+
+
+Note: Rebuild SMBIOS with iMacPro1,1 to enable H264 and HEVC with GenSMBIOS
+
+
+![image](https://user-images.githubusercontent.com/115396121/194748385-fe62f415-7072-4d0d-ac6c-9978370dcde1.png)
+
