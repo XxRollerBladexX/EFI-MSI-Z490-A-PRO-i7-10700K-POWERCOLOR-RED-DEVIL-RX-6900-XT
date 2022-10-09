@@ -11,5 +11,6 @@ MSI Z490 A PRO + i7 10700K + GRAPHIC POWERCOLOR RED DEVIL RX 6900 XT
 
 
 
-Latest working macOS: 12.6 
+Latest working macOS: 12.6
+
 OpenCore: 0.8.5
