@@ -17,11 +17,18 @@ OpenCore: 0.8.5
 
 
 
-Complete hardware specs
+
+
+
+Complete hardware specs:
 
 Intel(R) Core(TM) i9-10700 CPU @ 3,80 GHz 
+
 MSI Z490-A PRO @ BIOS XXX
+
 2x 16Gb Corsair Vengeance LPX DDR4 3000 PC4-24000 CL15
+
 Red Devil AMD Radeon™ RX 6900 XT 16GB GDDR6 - AXRX 6900 XT 16GBD6-3DHE/OC
+
 HD NVMe Samsung SSD 970 EVO
 
