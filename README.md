@@ -45,3 +45,4 @@ Note: Rebuild SMBIOS with iMacPro1,1 to enable H264 and HEVC with GenSMBIOS
 
 ![image](https://user-images.githubusercontent.com/115396121/194748385-fe62f415-7072-4d0d-ac6c-9978370dcde1.png)
 
+[OCSysInfo.txt](https://github.com/XxRollerBladexX/EFI-MSI-Z490-A-PRO-i7-10700K-POWERCOLOR-RED-DEVIL-RX-6900-XT/files/9741182/OCSysInfo.txt)
